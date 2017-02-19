@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    "node_modules/jsdoc/plugins/markdown",
+    "node_modules/angular-jsdoc/common/plugins/ngdoc"
+  ],
+  "templates": {
+    "cleverLinks": true,
+    "monospaceLinks": true
+  },
+  "source":{
+    "include" : ["app/app.controller.js"]
+  },
+  "opts":{
+    "template" : ".\\node_modules\\angular-jsdoc\\angular-template\\",
+    "destination" : "docs"
+  }
+}

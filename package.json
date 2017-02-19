@@ -18,8 +18,10 @@
   "homepage": "https://github.com/faiztherocker/meetups#readme",
   "devDependencies": {
     "angular": "^1.6.2",
+    "angular-jsdoc": "^1.5.0",
     "angular-mocks": "^1.6.2",
     "jasmine-core": "^2.5.2",
+    "jsdoc": "^3.4.3",
     "karma": "^1.4.1",
     "karma-chrome-launcher": "^2.0.0",
     "karma-cli": "^1.0.1",
