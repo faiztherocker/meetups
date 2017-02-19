@@ -20,4 +20,3 @@
         function activate() { }
     }
 })(angular);
-

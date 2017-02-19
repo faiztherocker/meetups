@@ -1,7 +1,7 @@
-(function () {
+(function (angular) {
     'use strict';
 
-    angular.module('module', [
+    angular.module('MeetupsApp', [
         // Angular modules
 
         // Custom modules
